@@ -52,3 +52,6 @@ Program C++, Java, dan Python pada main-nya tidak menggunakan hardcode. User dap
 
 Program PHP menggunakan hardcode, sehingga tidak ada input user.
     
+/*Saya Muhamad Naufal Daffa mengerjakan Latihan 1
+	dalam mata kuliah DPBO untuk keberkahanNya maka 
+	saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. */
