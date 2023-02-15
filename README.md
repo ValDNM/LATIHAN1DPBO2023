@@ -6,13 +6,13 @@ Skema Class
 Program (C++, PHP, Java & Python)
 
 Terdiri dari 1 kelas
-  Class Mahasiswa
-    Attribut (private)
+Class Mahasiswa
+  Attribut (private)
     - Nama
     - Nim
     - Prodi
     - Fakultas
-    Methods (public)
+Methods (public)
     - Constructor
       Getter
       -getNama
