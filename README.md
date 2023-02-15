@@ -1,6 +1,11 @@
 # LATIHAN1DPBO2023
 Latihan 1 DPBO Pendahuluan Kelas dan Enkapsulasi
 
+Nama : Muhamad Naufal Daffa
+
+NIM  : 2003217
+
+
 Skema Class
 
 Program (C++, PHP, Java & Python)
