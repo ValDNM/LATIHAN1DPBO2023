@@ -6,23 +6,41 @@ Skema Class
 Program (C++, PHP, Java & Python)
 
 Terdiri dari 1 kelas
-Class Mahasiswa
-  Attribut (private)
+
+  Class Mahasiswa
+
+    >Attribut (private)
+    
     - Nama
+    
     - Nim
+    
     - Prodi
+    
     - Fakultas
-Methods (public)
+    
+    >Methods (public)
+    
     - Constructor
-      Getter
+    
+      >Getter
+      
       -getNama
+      
       -getNim
+      
       -getProdi
+      
       -getFakultas
-      Setter
+      
+      >Setter
+      
       -setNama
+      
       -setNim
+      
       -setProdi
+      
       -setFakultas
 
 Program C++, Java, dan Python pada main-nya tidak menggunakan hardcode. User dapat meng-input data mahasiswa berdasarkan jumlah yang diinginkan
